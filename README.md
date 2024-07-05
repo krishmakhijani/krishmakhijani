@@ -79,5 +79,5 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=30px&hideBadges=true&hideDiscrim=true&theme=light&hideTimestamp=true&bg=94E2D5&idleMessage=Currently%20checking%20APIs....)](https://discord.com/users/771616688407445515)
+[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=30px&hideBadges=true&hideDiscrim=true&theme=light&hideTimestamp=true&bg=94E2D5&idleMessage=Currently%20checking%20APIs....&hideProfile=true)](https://github.com/krishmakhijani)
  
