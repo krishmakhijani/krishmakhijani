@@ -4,7 +4,7 @@
 
 <!---![Banner GitHub](https://github.com/krishmakhijani/100xdevCohort/assets/112251957/689172af-b840-48fd-8291-ceeccd3d25a5)-->
 
-# Hey There! 👋
+# Hey There! 👋 &nbsp;[![](https://api.visitorbadge.io/api/visitors?path=https://github.com/krishmakhijani/krishmakhijani&label=VISITORS&labelColor=%23000&countColor=%230A0209)](https://github.com/krishmakhijani)
 **I'm Krish** - I'm a fullstack developer, problem solver, and undergraduate student based in the India. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 
@@ -79,7 +79,5 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-<div>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/krishmakhijani/krishmakhijani&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=30px&hideBadges=true&hideDiscrim=true&theme=light&hideTimestamp=true&bg=F9E2AF&idleMessage=Currently%20checking%20APIs....)](https://discord.com/users/771616688407445515)
  
