@@ -60,14 +60,15 @@
 
 | Category        | Skills        |
 |-----------------|---------------|
+| IDE & Environment | [![](https://skillicons.dev/icons?i=apple,vscode,obsidian,neovim,replit,pycharm,androidstudio,sublime,discord,anaconda)](https://github.com/krishmakhijani) |
+| Languages | [![](https://skillicons.dev/icons?i=js,ts,py,kotlin,java,cpp,html,bash,lua)](https://github.com/krishmakhijani) |
 | Frameworks| [![](https://skillicons.dev/icons?i=nextjs,react,threejs,express,nodejs,flask,vite,vitest)](https://github.com/krishmakhijani) |
-| Languages | [![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,bash)](https://github.com/krishmakhijani) |
-| Styling & Frameworks | [![](https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap)](https://github.com/krishmakhijani) |
 | Database & ORM | [![](https://skillicons.dev/icons?i=mongodb,graphql,postgres,mysql,firebase,redis,prisma)](https://github.com/krishmakhijani) |
 | Services & Tools| [![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,cloudflare)](https://github.com/krishmakhijani) |
-| IDE & Environment | [![](https://skillicons.dev/icons?i=vscode,neovim,replit,pycharm)](https://github.com/krishmakhijani) |
+| Styling & Frameworks | [![](https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap,materialui)](https://github.com/krishmakhijani) |
 | Hosting         | [![](https://skillicons.dev/icons?i=vercel,netlify,heroku)](https://github.com/krishmakhijani) |
 | APIs | [![](https://skillicons.dev/icons?i=postman,fastapi)](https://github.com/krishmakhijani)  |
+| IoT | [![](https://skillicons.dev/icons?i=raspberrypi)](https://github.com/krishmakhijani)  |
 
 <!---
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
