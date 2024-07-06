@@ -79,5 +79,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=30px&hideBadges=true&hideDiscrim=true&theme=dark&hideTimestamp=true&bg=313244&idleMessage=Currently%20commiting%20in%20Private%20Repos....&hideProfile=true)](https://github.com/krishmakhijani)
- 
+| Status | Stats |
+|-----------------|---------------|
+|[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=10px&hideBadges=true&hideDiscrim=true&theme=dark&hideTimestamp=true&bg=313244&idleMessage=Currently%20commiting%20in%20Private%20Repos....)](https://github.com/krishmakhijani)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishmakhijani&theme=catppuccin-mocha)](https://git.io/streak-stats)|
