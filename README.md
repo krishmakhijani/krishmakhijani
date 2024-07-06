@@ -81,4 +81,4 @@
 
 | Status | Stats |
 |-----------------|---------------|
-|[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=20px&hideBadges=true&hideDiscrim=true&theme=dark&hideTimestamp=true&bg=1e1e2e&idleMessage=Currently%20commiting%20in%20Private%20Repos....)](https://github.com/krishmakhijani)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krishmakhijani&theme=catppuccin-mocha)](https://github.com/krishmakhijani)|
+|[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=20px&hideBadges=true&hideDiscrim=true&theme=dark&hideTimestamp=true&bg=1e1e2e&idleMessage=Currently%20commiting%20in%20Private%20Repos....)](https://github.com/krishmakhijani)|[![GitHub Streak](https://github-readme-streak-stats-ten-theta.vercel.app?user=krishmakhijani&theme=catppuccin-mocha)](https://github.com/krishmakhijani)|
