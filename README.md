@@ -4,7 +4,7 @@
 
 <!---![Banner GitHub](https://github.com/krishmakhijani/100xdevCohort/assets/112251957/689172af-b840-48fd-8291-ceeccd3d25a5)-->
 
-# Hey There! 👋 &nbsp;[![](https://api.visitorbadge.io/api/visitors?path=https://github.com/krishmakhijani/krishmakhijani&label=VISITORS&labelColor=%23000&countColor=%230A0209)](https://github.com/krishmakhijani)
+# Hey There! 👋 &nbsp;[![](https://api.visitorbadge.io/api/visitors?path=https://github.com/krishmakhijani/krishmakhijani&label=VISITORS&labelColor=%23000&countColor=%230A0209)](https://krishmakhijani.com)
 **I'm Krish** - I'm a fullstack developer, problem solver, and undergraduate student based in the India. I'm interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
 
 
@@ -60,15 +60,15 @@
 
 | Category        | Skills        |
 |-----------------|---------------|
-| IDE & Environment | [![](https://skillicons.dev/icons?i=apple,vscode,obsidian,neovim,replit,pycharm,androidstudio,sublime,discord,anaconda)](https://github.com/krishmakhijani) |
-| Languages | [![](https://skillicons.dev/icons?i=js,ts,py,kotlin,java,cpp,html,bash,lua)](https://github.com/krishmakhijani) |
-| Frameworks| [![](https://skillicons.dev/icons?i=nextjs,react,threejs,express,nodejs,flask,vite,vitest)](https://github.com/krishmakhijani) |
-| Database & ORM | [![](https://skillicons.dev/icons?i=mongodb,graphql,postgres,mysql,firebase,redis,prisma)](https://github.com/krishmakhijani) |
-| Services & Tools| [![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,cloudflare)](https://github.com/krishmakhijani) |
-| Styling & Frameworks | [![](https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap,materialui)](https://github.com/krishmakhijani) |
-| Hosting         | [![](https://skillicons.dev/icons?i=vercel,netlify,heroku)](https://github.com/krishmakhijani) |
-| APIs | [![](https://skillicons.dev/icons?i=postman,fastapi)](https://github.com/krishmakhijani)  |
-| IoT | [![](https://skillicons.dev/icons?i=raspberrypi)](https://github.com/krishmakhijani)  |
+| IDE & Environment | [![](https://skillicons.dev/icons?i=apple,vscode,obsidian,neovim,replit,pycharm,androidstudio,sublime,discord,anaconda)](https://krishmakhijani.com) |
+| Languages | [![](https://skillicons.dev/icons?i=js,ts,py,kotlin,java,cpp,html,bash,lua)](https://krishmakhijani.com) |
+| Frameworks| [![](https://skillicons.dev/icons?i=nextjs,react,threejs,express,nodejs,flask,vite,vitest)](https://krishmakhijani.com) |
+| Database & ORM | [![](https://skillicons.dev/icons?i=mongodb,graphql,postgres,mysql,firebase,redis,prisma)](https://krishmakhijani.com) |
+| Services & Tools| [![](https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,cloudflare)](https://krishmakhijani.com) |
+| Styling & Frameworks | [![](https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap,materialui)](https://krishmakhijani.com) |
+| Hosting         | [![](https://skillicons.dev/icons?i=vercel,netlify,heroku)](https://krishmakhijani.com) |
+| APIs | [![](https://skillicons.dev/icons?i=postman,fastapi)](https://krishmakhijani.com)  |
+| IoT | [![](https://skillicons.dev/icons?i=raspberrypi)](https://krishmakhijani.com)  |
 
 <!---
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -81,4 +81,4 @@
 
 | Status | Stats |
 |-----------------|---------------|
-|[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=20px&hideBadges=true&hideDiscrim=true&theme=dark&hideTimestamp=true&bg=1e1e2e&idleMessage=Currently%20commiting%20in%20Private%20Repos....)](https://github.com/krishmakhijani)|[![GitHub Streak](https://github-readme-streak-stats-ten-theta.vercel.app?user=krishmakhijani&theme=catppuccin-mocha)](https://github.com/krishmakhijani)|
+|[![Discord Presence](https://lanyard.cnrad.dev/api/771616688407445515?borderRadius=20px&hideBadges=true&hideDiscrim=true&theme=dark&hideTimestamp=true&bg=1e1e2e&idleMessage=Currently%20commiting%20in%20Private%20Repos....)](https://krishmakhijani.com)|[![GitHub Streak](https://github-readme-streak-stats-ten-theta.vercel.app?user=krishmakhijani&theme=catppuccin-mocha)](https://krishmakhijani.com)|
